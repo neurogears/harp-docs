@@ -35,6 +35,7 @@
         "files": [
           "logo.svg",
           "favicon.ico",
+          "articles/**.png",
           "images/**",
           "workflows/**"
         ]
